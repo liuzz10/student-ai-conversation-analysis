@@ -37,4 +37,4 @@ Descriptions and illustrative examples for each dimension are included in the pr
 
 ---
 
-Created by [Hatch Hatch](https://hatch-hatch.com).
+Created by Joy Liu from [Hatch Hatch](https://www.hatch-hatch.com).
